@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Un repositorio de prueba del modulo 2.
+Luis Urrea, este proyecto es una prueba
